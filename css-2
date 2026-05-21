@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Oregano';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/oregano/v17/If2KXTPxciS3H4S2oZXlPBHP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oregano';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/oregano/v17/If2IXTPxciS3H4S2oZDVOw.ttf) format('truetype');
+}
